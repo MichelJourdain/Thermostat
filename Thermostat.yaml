@@ -3,7 +3,7 @@
    entities:
               - attribute: current_temperature
                 decimals: 1
-                entity: climate.sensibo_cuisine
+                entity: climate.sensibo_cuisine.yaml
                 unit: "\xB0C"
               - attribute: temperature
                 decimals: 0
